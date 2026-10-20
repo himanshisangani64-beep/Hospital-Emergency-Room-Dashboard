@@ -145,17 +145,8 @@ This project follows a structured process to convert emergency room records into
 
 ## 📈 Dashboard Preview
 
-The dashboard provides an interactive overview of emergency room operations, patient attendance, waiting times, satisfaction scores, demographics, admission outcomes, and department distributions.
+![Hospital Emergency Room Dashboard](Image/Final_Dashboard.png)
 
-**Dashboard Screenshot:**
-
-_Add your actual dashboard screenshot path below._
-
-Example:
-
-`![Hospital Emergency Room Dashboard](Images/Hospital_ER_Dashboard.png)`
-
-*Replace the example image path with the actual folder and screenshot filename in your GitHub repository.*
 
 ## 🔍 Key Insights
 
